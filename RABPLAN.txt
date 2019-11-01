@@ -1,0 +1,87 @@
+<Rabbits>
+
+Main money for the game, fur can be harvested to gain coin, or rabbits can be sold for coin.
+
+Atts:
+	-Breed
+	-Colour
+	-Size
+	-Fur rate
+	-Hop Height
+	-Speed
+	-Dig Skill
+	-Gender
+
+Breeds:
+	<Realistic>
+	-Lionhead
+	-Flemish
+	-Holland lop
+	-Continental Giant
+	-Netherland Dwarf
+	-Dutch
+	-English lop
+	-French lop
+	-Mini Rex
+	-Polish lop
+	-American
+	-Beveren
+	-Californian
+	-American Fuzzy
+	-American Sable
+	-Argente Creme
+	-Argente de Champagne
+	-Belgian Hare
+	-Blanc de Hotot
+	-Britannia Petite
+	-Checkered Giant
+	-Chinchilla (3 Size)
+	-Cinnamon
+	-Dwarf Hotot
+	-Dwarf Lop
+	-English Angora
+	-English Spot
+	-Florida White
+	-French Angora
+	-Giant Angora
+	-Giant Papillon
+	-Harlequin
+	-Havana
+	-Himalayan
+	-Jersey Wooly
+	-Lilac
+	-New Zealand
+	-Palomino
+	-Rex
+	-Rhinelander
+	-Satin
+	-Satin Angora
+	-Silver
+	-Silver Fox
+	-Silver Marten
+	-Tan
+	-Thrianta
+	-Velveteen Lop
+	
+	<Specialty>
+	-Easter
+	-Christmas
+	-Halloween
+	-Valentines
+	-Thanksgiving
+	-Golden
+	-Silver
+	-Bronze
+	-Chocolate
+	-Juno
+	-Peep
+	
+	
+<Competitions>
+
+Types:
+	-Digging
+	-Hurdles
+	-Race
+	-Obstacle course (All)
+	
